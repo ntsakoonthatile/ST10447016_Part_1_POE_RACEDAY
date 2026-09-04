@@ -93,14 +93,9 @@ The following technologies and tools are used for Part 1:
 * Markdown
 
 
-#  GitHub Actions / CI
+#  GitHub Actions
 
 A GitHub Actions workflow is included to check that the required Part 1 repository structure and planning documents are present.
-
-# Successful CI Build
-
-**[INSERT YOUR REAL GREEN BUILD SCREENSHOT HERE]**
-
 
 The video demonstrates:
 
